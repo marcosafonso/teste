@@ -1,0 +1,3 @@
+Descrição geral:
+Uma biblioteca mantém os livros em suas prateleiras de acordo com sua categoria, cada prateleira só tem livros de uma mesma categoria,
+  sendo que pode haver várias prateleiras de uma mesma categoria.
