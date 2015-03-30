@@ -1,3 +1,6 @@
 Descrição geral:
-Uma biblioteca mantém os livros em suas prateleiras de acordo com sua categoria, cada prateleira só tem livros de uma mesma categoria,
-  sendo que pode haver várias prateleiras de uma mesma categoria.
+
+Uma biblioteca mantém os livros organizados de acordo com sua categoria(ação, drama, romande, etc.). Os livros ficam  em suas prateleiras de acordo com sua categoria, cada prateleira só tem livros de uma mesma categoria,
+  sendo que pode haver várias prateleiras de uma mesma categoria. 
+  os dados dos usuários são cadastrados pela bibliotecária, sendo que cada usuário pode fazer um empréstimo de um ou mais livros de uma só vez.
+  ao devolver o livro, registra-se a devolução dos livros pelo usuários, sendo que pra cada livro entregue depois da data de devolução, registra-se um multa para o usuário. 
